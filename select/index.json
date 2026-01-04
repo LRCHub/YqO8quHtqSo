@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Natural Sense",
+  "base_artist": "Billyrrom",
+  "createdAt": "2026-01-04T01:47:41.215485Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Natural Sense",
+      "artist": "Billyrrom",
+      "has_synced": false,
+      "path": "select/01_Natural_Sense_Billyrrom.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Natural Sense",
+      "artist": "Billyrrom",
+      "has_synced": false,
+      "path": "select/pl_01_Natural_Sense_Billyrrom.txt"
+    }
+  ]
+}
